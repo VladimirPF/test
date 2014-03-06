@@ -10,7 +10,8 @@ namespace TestConsole_Git
     {
         static void Main(string[] args)
         {
-            // added 1 comment
+            // added 1 comment from visual studio
+            // added 3 comment
         }
     }
 }

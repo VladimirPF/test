@@ -11,6 +11,7 @@ namespace TestConsole_Git
         static void Main(string[] args)
         {
             // added 1 comment
+            // added 2 comment
         }
     }
 }

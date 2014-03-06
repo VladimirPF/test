@@ -10,8 +10,13 @@ namespace TestConsole_Git
     {
         static void Main(string[] args)
         {
+<<<<<<< .merge_file_a07368
             // added 1 comment from visual studio
+            // added 3 comment
+=======
+            // added 1 comment
             // added 2 comment
+>>>>>>> .merge_file_a13240
         }
     }
 }

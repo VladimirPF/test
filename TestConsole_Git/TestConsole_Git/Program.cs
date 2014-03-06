@@ -9,9 +9,9 @@ namespace TestConsole_Git
     class Program
     {
         static void Main(string[] args)
-        {
-            // added 1 comment from visual studio vladmir
-            // added 2 comment vladimir
+        {            
+            // added 1 comment from visual studio git
+            // added 2 comment git
         }
     }
 }

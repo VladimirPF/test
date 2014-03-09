@@ -1,1 +1,6 @@
 C:\Users\vladimir\Documents\Visual Studio 2012\Test_Projects\TestConsole_Git\TestConsole_Git\bin\Debug\TestConsole_Git.exe.config
+C:\Users\vladimir\Documents\Visual Studio 2012\Test_Projects\TestConsole_Git\TestConsole_Git\bin\Debug\TestConsole_Git.exe
+C:\Users\vladimir\Documents\Visual Studio 2012\Test_Projects\TestConsole_Git\TestConsole_Git\bin\Debug\TestConsole_Git.pdb
+C:\Users\vladimir\Documents\Visual Studio 2012\Test_Projects\TestConsole_Git\TestConsole_Git\obj\Debug\TestConsole_Git.csprojResolveAssemblyReference.cache
+C:\Users\vladimir\Documents\Visual Studio 2012\Test_Projects\TestConsole_Git\TestConsole_Git\obj\Debug\TestConsole_Git.exe
+C:\Users\vladimir\Documents\Visual Studio 2012\Test_Projects\TestConsole_Git\TestConsole_Git\obj\Debug\TestConsole_Git.pdb
